@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.AuthKitUIService</string>
+	<key>com.apple.UIKit.vends-view-services</key>
+	<true/>
+	<key>com.apple.appletv.pbs.user-presentation-service-access</key>
+	<true/>
+	<key>com.apple.authkit.client.private</key>
+	<true/>
+	<key>com.apple.coretelephony.Identity.get</key>
+	<true/>
+	<key>com.apple.keystore.device</key>
+	<true/>
+	<key>com.apple.managedconfiguration.profiled-access</key>
+	<true/>
+	<key>com.apple.private.CoreAuthentication.SPI</key>
+	<true/>
+	<key>com.apple.private.MobileGestalt.AllowedProtectedKeys</key>
+	<array>
+		<string>SerialNumber</string>
+		<string>UniqueDeviceID</string>
+	</array>
+	<key>com.apple.private.accounts.allaccounts</key>
+	<true/>
+	<key>com.apple.private.coreservices.canmaplsdatabase</key>
+	<true/>
+	<key>com.apple.private.hsa-authentication-processing</key>
+	<true/>
+	<key>com.apple.private.tcc.allow</key>
+	<array>
+		<string>kTCCServiceFaceID</string>
+	</array>
+	<key>com.apple.security.exception.files.absolute-path.read-only</key>
+	<array>
+		<string>/Applications/</string>
+		<string>/private/var/containers/Bundle/Application/</string>
+	</array>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.mobile.keybagd.xpc</string>
+		<string>com.apple.cdp.daemon</string>
+		<string>com.apple.ak.auth.xpc</string>
+		<string>com.apple.hsa-authentication-server</string>
+		<string>com.apple.ak.authorizationservices.xpc</string>
+		<string>com.apple.PineBoardServices</string>
+	</array>
+	<key>com.apple.springboard.activateRemoteAlert</key>
+	<true/>
+	<key>com.apple.springboard.openurlinbackground</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>apple</string>
+	</array>
+</dict>
+</plist>

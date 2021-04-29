@@ -1,0 +1,13 @@
+/Volumes/ArcherE18L204.J42dOS/usr/libexec/networkserviceproxy:
+	/usr/lib/libnetwork.dylib (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony (compatibility version 1.0.0, current version 0.0.0)
+	/System/Library/PrivateFrameworks/MobileWiFi.framework/MobileWiFi (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/CoreLocation.framework/CoreLocation (compatibility version 1.0.0, current version 2420.16.19)
+	/System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/Security.framework/Security (compatibility version 1.0.0, current version 59754.100.100)
+	/System/Library/Frameworks/NetworkExtension.framework/NetworkExtension (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1775.115.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.115.0)
+	/System/Library/Frameworks/Network.framework/Network (compatibility version 1.0.0, current version 1.0.0)

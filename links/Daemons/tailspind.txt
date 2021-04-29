@@ -1,0 +1,11 @@
+/Volumes/ArcherE18L204.J42dOS/usr/libexec/tailspind:
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.115.0)
+	/System/Library/PrivateFrameworks/kperf.framework/kperf (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit (compatibility version 1.0.0, current version 275.0.0)
+	/System/Library/PrivateFrameworks/ktrace.framework/ktrace (compatibility version 1.0.0, current version 406.100.20)
+	/usr/lib/libdscsym.dylib (compatibility version 1.0.0, current version 278.3.0)
+	/usr/lib/libtailspin.dylib (compatibility version 1.0.0, current version 102.1.0)
+	/System/Library/Frameworks/UserNotifications.framework/UserNotifications (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1775.115.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)

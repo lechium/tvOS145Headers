@@ -1,0 +1,12 @@
+/Volumes/ArcherE18L204.J42dOS/Applications/TVSearch.app/TVSearch:
+	/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics (compatibility version 64.0.0, current version 1463.4.1)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1775.115.0)
+	/System/Library/PrivateFrameworks/ITMLKit.framework/ITMLKit (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/JavaScriptCore.framework/JavaScriptCore (compatibility version 1.0.0, current version 611.1.18)
+	/System/Library/PrivateFrameworks/TVContentPartnerKitUI.framework/TVContentPartnerKitUI (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/TVKit.framework/TVKit (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/TVServices.framework/TVServices (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/UIKit.framework/UIKit (compatibility version 1.0.0, current version 4215.1.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.115.0)

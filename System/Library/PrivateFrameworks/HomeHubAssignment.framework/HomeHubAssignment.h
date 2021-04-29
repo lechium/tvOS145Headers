@@ -1,0 +1,15 @@
+#import <HomeHubAssignment/HHAMesh.h>
+#import <HomeHubAssignment/HHABaseScoreAttribute.h>
+#import <HomeHubAssignment/HHAAssignmentCommandNotification.h>
+#import <HomeHubAssignment/HHAEndpointReassignmentRequestNotification.h>
+#import <HomeHubAssignment/HHAHubStatus.h>
+#import <HomeHubAssignment/HHAAttributeUpdateNotification.h>
+#import <HomeHubAssignment/HHAAssignmentFailureNotification.h>
+#import <HomeHubAssignment/HHAHubAttributes.h>
+#import <HomeHubAssignment/HHADumpHubEndpointAssignmentsRequest.h>
+#import <HomeHubAssignment/HHADumpHubEndpointAssignmentsResponse.h>
+#import <HomeHubAssignment/HHARetrieveAttributesNotification.h>
+#import <HomeHubAssignment/HHAEndpointTrait.h>
+#import <HomeHubAssignment/HHAHub.h>
+#import <HomeHubAssignment/HHANumSlotsAttribute.h>
+#import <HomeHubAssignment/HHAMeshFactory.h>

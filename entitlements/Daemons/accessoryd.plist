@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.accessoryd</string>
+	<key>com.apple.appletv.pbs.allow-wake</key>
+	<true/>
+	<key>com.apple.bluetooth.system</key>
+	<true/>
+	<key>com.apple.frontboard.launchapplications</key>
+	<true/>
+	<key>com.apple.frontboardservices.display-layout-monitor</key>
+	<true/>
+	<key>com.apple.frontboardservices.display-layout-monitor - 2</key>
+	<true/>
+	<key>com.apple.hid.manager.user-access-device</key>
+	<true/>
+	<key>com.apple.mediaplayer.playinbackground</key>
+	<true/>
+	<key>com.apple.mediaplayer.radio.private</key>
+	<true/>
+	<key>com.apple.multitasking.unlimitedassertions</key>
+	<true/>
+	<key>com.apple.private.MobileGestalt.AllowedProtectedKeys</key>
+	<array>
+		<string>BluetoothAddressData</string>
+		<string>BluetoothAddress</string>
+		<string>SerialNumber</string>
+		<string>UniqueDeviceID</string>
+		<string>UniqueDeviceIDData</string>
+	</array>
+	<key>com.apple.private.hid.client.event-monitor</key>
+	<true/>
+	<key>com.apple.springboard.CFUserNotification</key>
+	<true/>
+	<key>com.apple.springboard.launchapplications</key>
+	<true/>
+	<key>com.apple.springboard.launchapplicationswithoptions</key>
+	<true/>
+	<key>com.apple.springboard.openurlswhenlocked</key>
+	<true/>
+	<key>com.apple.wifi.manager-access</key>
+	<true/>
+	<key>platform-application</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>accessoryd</string>
+	</array>
+	<key>secure-key-vault-client</key>
+	<integer>1257324666</integer>
+</dict>
+</plist>

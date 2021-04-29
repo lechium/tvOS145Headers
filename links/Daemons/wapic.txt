@@ -1,0 +1,5 @@
+/Volumes/ArcherE18L204.J42dOS/usr/libexec/wapic:
+	/usr/lib/libpcap.A.dylib (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.118.0)
+	/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration (compatibility version 1.0.0, current version 1109.100.4)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)

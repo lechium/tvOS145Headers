@@ -1,0 +1,5 @@
+/Volumes/ArcherE18L204.J42dOS/System/Library/Frameworks/CFNetwork.framework/AuthBrokerAgent:
+	/System/Library/Frameworks/Security.framework/Security (compatibility version 1.0.0, current version 59754.100.100)
+	/System/Library/Frameworks/CFNetwork.framework/CFNetwork (compatibility version 1.0.0, current version 1237.0.0)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.115.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)

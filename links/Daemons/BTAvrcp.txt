@@ -1,0 +1,10 @@
+/Volumes/ArcherE18L204.J42dOS/usr/sbin/BTAvrcp:
+	/System/Library/PrivateFrameworks/CrashReporterSupport.framework/CrashReporterSupport (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1775.118.101)
+	/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/MediaRemote.framework/MediaRemote (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices (compatibility version 1.0.0, current version 1122.33.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.118.101)
+	/System/Library/Frameworks/CoreServices.framework/CoreServices (compatibility version 1.0.0, current version 1122.33.0)

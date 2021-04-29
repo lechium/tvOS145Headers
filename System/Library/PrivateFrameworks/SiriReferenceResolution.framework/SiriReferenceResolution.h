@@ -1,0 +1,15 @@
+#import <SiriReferenceResolution/SiriReferenceResolution.RRSQLiteStorage.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RRAnnotatedEntity.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RREventProcessor.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RRNotificationPuller.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RRResolver.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RRHeuristicRanker.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.ReferenceResolutionClient.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RRCoreDuetPuller.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RRMemoryStorage.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.SiriReferenceResolutionService.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RRMentionedEvent.h>
+#import <SiriReferenceResolution/SiriReferenceResolution.RROrdinalPosition.h>
+#import <SiriReferenceResolution/RRSQLite.TableBuilder.h>
+#import <SiriReferenceResolution/RRSQLite.Connection.h>
+#import <SiriReferenceResolution/RRSQLite.Statement.h>

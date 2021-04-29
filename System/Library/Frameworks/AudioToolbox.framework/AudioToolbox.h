@@ -1,0 +1,9 @@
+#import <AudioToolbox/AVHapticSequenceEntry.h>
+#import <AudioToolbox/AVHapticClient.h>
+#import <AudioToolbox/AVHapticEvent.h>
+#import <AudioToolbox/AVHapticPlayerParameterCurveControlPoint.h>
+#import <AudioToolbox/AVHapticPlayerParameterCurve.h>
+#import <AudioToolbox/AVHapticPlayerChannel.h>
+#import <AudioToolbox/AVHapticPlayer.h>
+#import <AudioToolbox/AVHapticSequence.h>
+#import <AudioToolbox/AVHapticParameterCurveValue.h>

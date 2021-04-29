@@ -1,0 +1,17 @@
+#import <WiFiPeerToPeer/WiFiAwarePublishConfiguration.h>
+#import <WiFiPeerToPeer/WiFiAwareDataSessionStatisticsReport.h>
+#import <WiFiPeerToPeer/WiFiAwareDataSessionStatisticsHistogramBin.h>
+#import <WiFiPeerToPeer/WiFiAwarePublisherDataSessionHandle.h>
+#import <WiFiPeerToPeer/WiFiAwareDiscoveryResult.h>
+#import <WiFiPeerToPeer/WiFiAwareDataSession.h>
+#import <WiFiPeerToPeer/WiFiAwarePublishDatapathSecurityConfiguration.h>
+#import <WiFiPeerToPeer/WiFiAwareSubscribeConfiguration.h>
+#import <WiFiPeerToPeer/WiFiAwareSubscriber.h>
+#import <WiFiPeerToPeer/WiFiMACAddress.h>
+#import <WiFiPeerToPeer/WiFiAwarePublishDatapathServiceSpecificInfo.h>
+#import <WiFiPeerToPeer/WiFiAwareDataSessionIssueReport.h>
+#import <WiFiPeerToPeer/WiFiAwarePublishServiceSpecificInfo.h>
+#import <WiFiPeerToPeer/WiFiAwarePublishDatapathConfiguration.h>
+#import <WiFiPeerToPeer/WiFiAwareDatapathConfiguration.h>
+#import <WiFiPeerToPeer/WiFiP2PSPITransactionRequestor.h>
+#import <WiFiPeerToPeer/WiFiAwarePublisher.h>

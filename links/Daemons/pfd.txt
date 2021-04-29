@@ -1,0 +1,4 @@
+/Volumes/ArcherE18L204.J42dOS/usr/libexec/pfd:
+	/System/Library/Frameworks/Security.framework/Security (compatibility version 1.0.0, current version 59754.100.100)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.115.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)

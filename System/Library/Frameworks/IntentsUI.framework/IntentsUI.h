@@ -1,0 +1,11 @@
+#import <IntentsUI/INUIVoiceShortcutHostViewController.h>
+#import <IntentsUI/INUIAppIntentForwardingActionExecutor.h>
+#import <IntentsUI/INUIVoiceShortcutXPCInterface.h>
+#import <IntentsUI/INUIImageServiceConnection.h>
+#import <IntentsUI/INUIImageSizeProvider.h>
+#import <IntentsUI/INUIPortableImageLoaderHelper.h>
+#import <IntentsUI/INUIImageLoader.h>
+#import <IntentsUI/INUIExtensionRequestInfo.h>
+#import <IntentsUI/INUIAppIntentDeliverer.h>
+#import <IntentsUI/INUILoadingVoiceShortcutViewController.h>
+#import <IntentsUI/INUISearchFoundationImageAdapter.h>

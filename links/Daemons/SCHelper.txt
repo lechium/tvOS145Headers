@@ -1,0 +1,6 @@
+/Volumes/ArcherE18L204.J42dOS/System/Library/Frameworks/SystemConfiguration.framework/SCHelper:
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.118.0)
+	/System/Library/Frameworks/Security.framework/Security (compatibility version 1.0.0, current version 59754.100.106)
+	/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration (compatibility version 1.0.0, current version 1109.100.4)
+	/usr/lib/libbsm.0.dylib (compatibility version 1.0.0, current version 1.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)

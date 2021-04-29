@@ -1,0 +1,9 @@
+/Volumes/ArcherE18L204.J42dOS/usr/libexec/neagent:
+	/System/Library/Frameworks/CoreServices.framework/CoreServices (compatibility version 1.0.0, current version 1122.33.0)
+	/System/Library/Frameworks/NetworkExtension.framework/NetworkExtension (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/Security.framework/Security (compatibility version 1.0.0, current version 59754.100.106)
+	/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration (compatibility version 1.0.0, current version 1109.100.4)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1775.118.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.118.0)

@@ -1,0 +1,10 @@
+/Volumes/ArcherE18L204.J42dOS/System/Library/PrivateFrameworks/FamilyNotification.framework/familynotificationd:
+	/System/Library/Frameworks/UserNotifications.framework/UserNotifications (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/CoreServices.framework/CoreServices (compatibility version 1.0.0, current version 1122.32.0)
+	/System/Library/PrivateFrameworks/FamilyCircle.framework/FamilyCircle (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/BulletinBoard.framework/BulletinBoard (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/FamilyNotification.framework/FamilyNotification (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1775.117.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.117.0)

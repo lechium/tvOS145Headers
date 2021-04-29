@@ -1,0 +1,12 @@
+/Volumes/ArcherE18L204.J42dOS/usr/libexec/MobileStorageMounter:
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1775.117.0)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1775.117.0)
+	/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit (compatibility version 1.0.0, current version 275.0.0)
+	/System/Library/Frameworks/Security.framework/Security (compatibility version 1.0.0, current version 59754.100.103)
+	/System/Library/PrivateFrameworks/ServiceManagement.framework/ServiceManagement (compatibility version 1.0.0, current version 2038.100.47)
+	/System/Library/PrivateFrameworks/DiskImages2.framework/DiskImages2 (compatibility version 1.0.0, current version 1.0.0)
+	/usr/lib/libimg4.dylib (compatibility version 1.0.0, current version 106.100.3)
+	/usr/lib/libcryptex.dylib (compatibility version 1.0.0, current version 84.100.8)
+	/usr/lib/liblockdown.dylib (compatibility version 1.0.0, current version 1.0.0, weak)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)

@@ -1,0 +1,2 @@
+/Volumes/ArcherE18L204.J42dOS/usr/libexec/tzlinkd:
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.100.5)

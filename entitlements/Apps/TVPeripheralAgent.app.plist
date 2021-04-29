@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.BTServer.allowRestrictedServices</key>
+	<true/>
+	<key>com.apple.BTServer.appleMfgDataScanner</key>
+	<true/>
+	<key>com.apple.BTServer.programmaticPairing</key>
+	<true/>
+	<key>com.apple.BTServer.supportsPairing</key>
+	<true/>
+	<key>com.apple.SystemConfiguration.SCDynamicStore-write-access</key>
+	<true/>
+	<key>com.apple.appletv.pbs.bulletin-service-access</key>
+	<true/>
+	<key>com.apple.appletv.pbs.diagnostic-logs-service-access</key>
+	<true/>
+	<key>com.apple.bluetooth.system</key>
+	<true/>
+	<key>com.apple.private.MobileGestalt.AllowedProtectedKeys</key>
+	<array>
+		<string>RemoteBluetoothAddress</string>
+		<string>RemoteBluetoothAddressData</string>
+	</array>
+	<key>com.apple.private.externalaccessory.showallaccessories</key>
+	<true/>
+	<key>com.apple.private.hid.client.event-monitor</key>
+	<true/>
+	<key>com.apple.private.security.container-required</key>
+	<true/>
+	<key>com.apple.security.exception.files.absolute-path.read-only</key>
+	<array>
+		<string>/private/var/preferences/SystemConfiguration/preferences.plist</string>
+	</array>
+	<key>com.apple.security.exception.files.absolute-path.read-write</key>
+	<string>/tmp/</string>
+	<key>com.apple.security.exception.shared-preference.read-only</key>
+	<array>
+		<string>com.apple.TVPeripheralAgentServices</string>
+	</array>
+	<key>com.apple.security.exception.shared-preference.read-write</key>
+	<array>
+		<string>com.apple.appletvservices</string>
+	</array>
+	<key>com.apple.springboard.CFUserNotification</key>
+	<true/>
+	<key>com.apple.system.diagnostics.iokit-properties</key>
+	<true/>
+</dict>
+</plist>
